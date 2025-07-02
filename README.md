@@ -2,7 +2,7 @@
 
 A Machine Learning model created to identify different types of diseases in a rice plant.
 
-<br><br> 
+<br>
 This is an AI-driven diagnostic framework that uses Convolutional Neural Networks (CNNs), specifically an enhanced InceptionV3-based transfer learning modelfor multi-class classification of rice leaf diseases.
 <br> The system employs advanced image preprocessing techniques, data augmentation, and class weighting to address data imbalance and improve generalization. Additionally, fine-tuning of the pre-trained model enhances performance on domain-specific imagery
 <br> With a great UI this small yet complex web-app also uses google's smtp service to send emails for verification codes, reset password link, etc., and it comes along with a dashboard showing some details about the user logged in.
